@@ -1,0 +1,10 @@
+.icones{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+  }
+  
+  .icone{
+    padding: 0 5px
+  }
+  
